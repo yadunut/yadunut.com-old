@@ -1,4 +1,4 @@
-baseURL = "yadunut.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "Yadunand Prem's Blog"
 theme = "contrast-hugo"
