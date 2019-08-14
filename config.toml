@@ -1,0 +1,5 @@
+baseURL = "https://yadunut.com"
+languageCode = "en-us"
+title = "Yadunand Prem's Blog"
+theme = "contrast-hugo"
+name = "Yadunand Prem"
