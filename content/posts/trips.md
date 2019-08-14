@@ -1,7 +1,7 @@
 ---
 title: "School Trips"
 date: 2019-08-14T21:31:07+08:00
-draft: true
+draft: false
 ---
 
 As part of our schools FP3 module, we had the opportunity to go on visits to different institutions and companies. I had the wonderful oppotunity to visit SUTD and DSTA
