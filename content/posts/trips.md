@@ -8,7 +8,7 @@ As part of our schools FP3 module, we had the opportunity to go on visits to dif
 
 ## SUTD
 
-W learnt about the different programs offered in SUTD. SUTD is different from other universities as their curriculum incorporates stuff from non tech related topics. This allows their graduates to have a wider understanding of the field and know the different aspects of the business.
+W learnt about the different programs offered in SUTD. SUTD is different from other universities as their curriculum incorporates stuff from non tech related topics. This allows their graduates to have a wider understanding of the field and know the different aspects of the business. To give us an understandingon how the classes went, we had a trial class on which they taught us Rainbow Tables. Learning about that was very interesting as I hadn't thought of space constraints of rainbow tables. Learning about precomputed hash chains was fascinating
 
 
 ## DSTA
